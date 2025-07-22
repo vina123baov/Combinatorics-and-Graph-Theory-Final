@@ -38,6 +38,6 @@ def generate_self_conjugate_partitions(n):
 
 n = 7
 print("Tổng số phân hoạch tự liên hợp của", n, "là:", count_self_conjugate_partitions(n))
-print("Danh sách phân hoạch tự liên hợp:")
+print("Kết quả phân hoạch tự liên hợp:")
 for p in generate_self_conjugate_partitions(n):
     print(p)
