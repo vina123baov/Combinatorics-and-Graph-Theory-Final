@@ -27,4 +27,6 @@ Báo cáo gồm các bài toán được trình bày chi tiết theo 3 khía c�
 | 11  | DFS – Đồ thị đơn |
 | 12  | DFS – Multigraph |
 | 13  | DFS – Đồ thị tổng quát |
-
+| 14  | Dijkstra – Đồ thị đơn (simple graph) |
+| 15  | Dijkstra – Multigraph (đa cung) |
+| 16  | Dijkstra – Đồ thị tổng quát |
