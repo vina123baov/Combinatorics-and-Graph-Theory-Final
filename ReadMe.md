@@ -18,7 +18,7 @@ Báo cáo gồm các bài toán được trình bày chi tiết theo 3 khía c�
 | 2   | Đếm số phân hoạch \(p(n,k)\) |
 | 3   | Phân hoạch tự liên hợp |
 | 4   | Chuyển đổi biểu diễn đồ thị và cây |
-| 5   | Giải các bài từ Val21 |
+| 5   | Val21 Problems|
 | 6   | Tree Edit Distance |
 | 7   | Tree Traversal (Preorder, Postorder, etc.) |
 | 8   | BFS – Đồ thị đơn |
