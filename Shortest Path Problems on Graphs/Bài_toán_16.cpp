@@ -35,11 +35,14 @@ int main() {
     adj[0].push_back({1, 2});
     adj[0].push_back({1, 1});
     adj[0].push_back({0, 0});
-    adj[1].push_back({2, 4});
-    adj[1].push_back({3, 6});
+
+    adj[1].push_back({2, 1});
+    adj[1].push_back({3, 5});
+
     adj[2].push_back({3, 1});
+    adj[3].push_back({4, 1});
     adj[3].push_back({4, 3});
-    adj[3].push_back({4, 2});
+
     dijkstra_general(n, adj, 0);
     return 0;
 }
